@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.mylist {
+  padding: 0px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 5px 0px;
+}
+.images {
+  height: 15px;
+  width: 15px;
+}
+.name {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'roboto';
+  color: #ffffff;
+}
